@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "This is for practice react",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "repository": {
@@ -26,5 +28,10 @@
   },
   "browserslist": [
     "last 2 version"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/Himaja9876/react-learn/issues"
+  },
+  "homepage": "https://github.com/Himaja9876/react-learn#readme",
+  "main": "App.js"
 }
